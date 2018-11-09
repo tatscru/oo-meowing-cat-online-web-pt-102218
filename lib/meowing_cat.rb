@@ -4,5 +4,6 @@ class Cat
   
   def meow 
     puts "meoww!"
+  end 
 end 
 
