@@ -3,7 +3,7 @@ class Cat
   attr_accessor :name
   
   def meow 
-    puts "meoww!"
+    puts "meow!"
   end 
 end 
 
